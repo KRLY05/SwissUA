@@ -38,13 +38,26 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 # Спільноти Українців
 Ви можете задавати ваші запитання на різних платформах, де створені групи українців у Швейцарії:
 
-Telegram:
+### Telegram:
 
-[Українці в Швейцарії (SwissUA)](https://t.me/SwissUA)
+[Українці в Швейцарії (SwissUA)](https://t.me/SwissUA) <- З питаннями щодо наповнення цього сайту звертайтеся сюди
+
+[Zurich-based group for all of those who want to support Ukraine](https://t.me/zh_helps_ukraine)
+
+[Чат матерів з України](https://t.me/Zh_helps_UA_mums)
+
+[Чат Цуг](https://t.me/+q894LAg3kQ1hNjRk)
+
+[Чат Женеви](https://t.me/GeneveUkraine)
+
+[Женева і Во](https://t.me/chatsuisse)
 
 [Беженцы в Швейцарии](https://t.me/UASchweiz)
 
-Facebook:
+[Берн](https://t.me/help_people_fromUkraine)
+
+
+### Facebook:
 
 [Українці в Швейцарії](https://www.facebook.com/groups/519429765180420)
 
@@ -54,9 +67,10 @@ Facebook:
 
 [Осередок українців у Женеві](https://www.facebook.com/groups/1091252917571731/)
 
-WhatsApp
+### WhatsApp:
 
 [Допомога біженцям у Швейцарії](https://chat.whatsapp.com/F1f18mV9oDM35nuTiQTTAs)
+[Чат Люценру](https://chat.whatsapp.com/G8qFB8UzZINJJGPorMiCys)
 
 
 # Проживання
