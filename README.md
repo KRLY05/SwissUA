@@ -42,7 +42,7 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Українці в Швейцарії (SwissUA)](https://t.me/SwissUA) <- З питаннями щодо наповнення цього сайту звертайтеся сюди
 
-[Zurich-based group for all of those who want to support Ukraine](https://t.me/zh_helps_ukraine)
+[Канал Zurich helps Ukraine](https://t.me/zh_helps_ukraine)
 
 [Чат матерів з України](https://t.me/Zh_helps_UA_mums)
 
