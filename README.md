@@ -218,6 +218,8 @@ Telegram бот з інформацією для біженців: [UAhelpCHbot]
 
 Юридичний онлайн сервіс для біженців: [asylex](https://asylex.bryter.io/s/Ddmn1KQmSvyIKnwmeHkuYA/ukraine)
 
+Ви подали заяву до притулку в Швейцарії. Що далі? [asylum-info.ch](https://asylum-info.ch)
+
 # Внесення змін до сайту
 
 1. Зареєструйтеся на [github.com](https://github.com/)
