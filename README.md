@@ -119,8 +119,9 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 [shelter4ua](https://www.shelter4ua.com/en/get_help)
 За посиланням треба вибрати країну Швейцарія
 Якщо не виходить скористатися формою, ви можете зв'язатися з цими контактами:
-**Halyna Ilyasevych Rauber** +41 79 283 83 70 halyna.rauber@gmail.com
-**Halyna Rinner** +41 79 443 37 32 halyna.rinner79@gmail.com
+
+* **Halyna Ilyasevych Rauber** +41 79 283 83 70 halyna.rauber@gmail.com
+* **Halyna Rinner** +41 79 443 37 32 halyna.rinner79@gmail.com
 
 Мережа хостелів
 [youthhostel](https://www.youthhostel.ch/)
