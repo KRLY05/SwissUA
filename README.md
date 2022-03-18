@@ -56,6 +56,8 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Берн](https://t.me/help_people_fromUkraine)
 
+[Фрібур](https://t.me/+h5QVWdAJof5jY2My)
+
 
 ### Facebook:
 
