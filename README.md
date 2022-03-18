@@ -73,6 +73,7 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Фрібур](https://t.me/+h5QVWdAJof5jY2My)
 
+[Лозана](https://t.me/LousanneUkraine)
 
 ### Facebook:
 
