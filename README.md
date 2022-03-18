@@ -165,9 +165,11 @@ Swisscom надає безкоштовні сім карти для біженц
 
 [Берн](https://www.bern.ch/politik-und-verwaltung/stadtverwaltung/bss/sozialamt/sozialdienst)
 
+Неофіційна соціальна допомога:
+
 [Вале](http://ukraine-valais.ch)
 
-Допомога у Цюриху: [t.me/zh_helps_ukraine](https://t.me/zh_helps_ukraine)
+[Цюріх](https://t.me/zh_helps_ukraine)
 
 CARITAS
 Lundi, mardi, jeudi et vendredi: 13h30-17h
