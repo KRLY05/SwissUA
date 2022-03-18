@@ -169,7 +169,7 @@ Swisscom надає безкоштовні сім карти для біженц
 
 [Вале](http://ukraine-valais.ch)
 
-[Цюріх](https://t.me/zh_helps_ukraine)
+[Цюрих](https://t.me/zh_helps_ukraine)
 
 CARITAS
 Lundi, mardi, jeudi et vendredi: 13h30-17h
