@@ -69,6 +69,18 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Чат Ааргау](https://t.me/AargauUkraine)
 
+[Чат Базель](https://t.me/BaselUkraine)
+
+[Чат Тургау](https://t.me/ThurgauUkraine)
+
+[Чат Люцерн](https://t.me/LuzernUkraine)
+
+[Чат кантону Тічіно](https://t.me/TicinoLuganoUkraine)
+
+[Чат Санкт-Галлен](https://t.me/StGallenUkraine)
+
+[Чат кантону Вале](https://t.me/ValaisUkraine)
+
 [Женева і Во](https://t.me/chatsuisse)
 
 [Беженцы в Швейцарии](https://t.me/UASchweiz)
