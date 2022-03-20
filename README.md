@@ -286,6 +286,11 @@ Telegram бот з інформацією для біженців: [UAhelpCHbot]
 
 Інформація, як допомогти українцям, німецькою мовою. [https://ukraine-direkthilfe.ch](https://ukraine-direkthilfe.ch/)
 
+Оплата за парковку машини:
+
+* [https://parkingpay.ch](https://parkingpay.ch)
+* [https://easyparkswitzerland.ch](https://easyparkswitzerland.ch)
+
 # Внесення змін до сайту
 
 1. Зареєструйтеся на [github.com](https://github.com/)
