@@ -71,6 +71,8 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Чат Базель](https://t.me/BaselUkraine)
 
+[Чат Берн](https://t.me/BernUkraine)
+
 [Чат Тургау](https://t.me/ThurgauUkraine)
 
 [Чат Люцерн](https://t.me/LuzernUkraine)
