@@ -284,6 +284,8 @@ Telegram бот з інформацією для біженців: [UAhelpCHbot]
 
 Порівняння цін в інтернет магазинах [toppreise.ch](https://www.toppreise.ch/en)
 
+Інформація, як допомогти українцям, німецькою мовою. [https://ukraine-direkthilfe.ch](https://ukraine-direkthilfe.ch/)
+
 # Внесення змін до сайту
 
 1. Зареєструйтеся на [github.com](https://github.com/)
