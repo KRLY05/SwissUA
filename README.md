@@ -225,6 +225,13 @@ Mercredi (reservé pour les enfants): 11h00-13h00 / 14h00-18h
 безкоштовні курси DE (Zurich, Winterthur and online)
 [sprachschule](https://www.vox-sprachschule.ch/en/refugees?utm_source=email&utm_medium=newsletter&utm_campaign=Help_Refugees)
 
+### Навчання для студентів
+Вебсайт [#ScienceForUkraine](https://scienceforukraine.eu/) збирає різні пропозиції для студентів та дослідників від різних університетів (включаючи швейцарські). Також в багатьох швейцарських університетах українські студенти можуть бути безкоштовно зараховані в якості "аудиторів" та брати курси чи працювати над навчальними проектами. Інформацію про це можна знайти на сайтах університетів, наприклад:
+- https://ukraine.epfl.ch/: *"You can register as an auditor so that you can attend courses in the field that you were studying at your Ukrainian university."*
+- https://ethz.ch/services/en/news-and-events/solidarity-with-ukraine.html: *"As part of its emergency aid programme, ETH Zurich is providing refugees from Ukraine with uncomplicated and rapid admission as auditors. This includes attendance of courses, access to ETH IT infrastructure, etc."*
+- https://www.unifr.ch/home/en/solidarity-ukraine/: *"BA, MA and PhD students may come to Unifr as host students. Study fees are waived."*
+
+
 
 # Медицина та Страхування
 
