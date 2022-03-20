@@ -291,6 +291,8 @@ Telegram бот з інформацією для біженців: [UAhelpCHbot]
 * [https://parkingpay.ch](https://parkingpay.ch)
 * [https://easyparkswitzerland.ch](https://easyparkswitzerland.ch)
 
+Порівняння вартості життя між Києвом та Цюріхом. [https://www.numbeo.com](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Ukraine&city1=Kiev+%28Kyiv%29&country2=Switzerland&city2=Zurich)
+
 # Протести
 
 Найближчі протести. Зі списку потрібно обрати "Switzerland". [StopPutin - Upcoming Events](https://datastudio.google.com/u/0/reporting/6853205b-ec91-4b89-9fdc-61486df3d2f8/page/fXgmC)
