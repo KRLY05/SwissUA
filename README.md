@@ -22,6 +22,8 @@
 
 # Дозвіл на проживання
 
+Офіційна інформація українською на сайті міграційної служби: [sem.admin.ch](https://www.sem.admin.ch/sem/de/home/sem/aktuell/ukraine-hilfe.html)
+
 Українці можуть в'їхати до Швейцарії за будь-яким паспортом. Приймаються небіометричні та внутрішні паспорти.
 
 Перші 90 днів українці можуть знаходитися у швейцарії без реєстрації
@@ -30,13 +32,23 @@
 
 Дозвіл на проживання S не видається тим хто вже отримав прихисток у іншій країні
 
+Конфедерація сприяє соціальній та професійній інтеграції в Швейцарії. Особи із статусом захисту S отримують соціальну допомогу від кантону і вони зможуть працювати (включаючи самозайнятість) без періоду очікування. Діти зможуть відвідувати школу.
+
 ## Реєстрація
 Почалася онлайн-реєстрація для отримання Перміта S у Швейцарії. Вам потрібно заповнити просту анкету, яка розміщена за посиланням нижче і надіслати її електронною поштою на anmeldung_ukraine@sem.admin.ch або звичайною поштою на адресу, вказану в анкеті. В анкеті повинні бути зазначені координати сторони, що приймає Вас у Швейцарії.
 Після цього ви отримаєте на свій email підтвердження вашого запиту та згодом дату i час запису на реєстрацію для отримання Перміту S.
 
 [gesuch-schutzstatus-s.pdf](https://www.sem.admin.ch/dam/sem/de/data/asyl/gesuch-schutzstatus-s.pdf.download.pdf/gesuch-schutzstatus-s-d.pdf)
 
-### Ресурси з детальнішою інформацією стосовно статусу S
+## В’їзд з тваринами
+
+У виняткових випадках до Швейцарії можуть в’їжджати собаки та коти, які ввозяться з України. Всю інформацію щодо процедури можна знайти тут: [Федеральне управління з безпеки харчових продуктів та ветеринарії](https://www.blv.admin.ch/blv/de/home/tiere/reisen-mit-heimtieren/hunde-katzen-und-frettchen.html) Необхідно заповнити форму: [form-pets-ukraine-ua.pdf](https://www.blv.admin.ch/dam/blv/de/dokumente/tiere/reisen-mit-heimtieren/form-pets-ukraine-ua.pdf) Через високий ризик епідемій в'їзд з домашньою птицею, копитними та парнокопитними тваринами заборонений. Власників тварин просять негайно звернутися до ветеринарних органів.
+
+## Виїзд за межі Швейцарії (подорожі)
+
+Особи, які отримали статус S відповідно до рішення Федеральної ради від 11 березня 2022 року, можуть виїжджати за кордон з дійсним паспортом без оформлення дозволу на поїздку та повертатися до Швейцарії.  В'їзд регулюеться правилами в'їзду до цих країн.
+
+## Ресурси з детальнішою інформацією стосовно статусу S
 
 Офіційний сайт міграційної служби з детальною інформацією для біженців: [www.sem.admin.ch](https://www.sem.admin.ch/sem/de/home.html)
 
@@ -234,6 +246,7 @@ Mercredi (reservé pour les enfants): 11h00-13h00 / 14h00-18h
 - https://ukraine.epfl.ch/: *"You can register as an auditor so that you can attend courses in the field that you were studying at your Ukrainian university."*
 - https://ethz.ch/services/en/news-and-events/solidarity-with-ukraine.html: *"As part of its emergency aid programme, ETH Zurich is providing refugees from Ukraine with uncomplicated and rapid admission as auditors. This includes attendance of courses, access to ETH IT infrastructure, etc."*
 - https://www.unifr.ch/home/en/solidarity-ukraine/: *"BA, MA and PhD students may come to Unifr as host students. Study fees are waived."*
+- https://www.unibas.ch/de/Aktuell/Ukraine.html: Пропозиція Університету Базель на основі програми обміну студентів Gaststudent
 
 
 
@@ -250,7 +263,7 @@ Mercredi (reservé pour les enfants): 11h00-13h00 / 14h00-18h
 
 # Робота
 
-Після отримання дозволу на проживання S ви отримуєте право на роботу у Швейцарії
+Після отримання дозволу на проживання S ви отримуєте право на роботу у Швейцарії (включаючи самозайнятість)
 
 Також українці отримують можливість працювати на себе (аналог ФОП в україні)
 
