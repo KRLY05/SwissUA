@@ -95,15 +95,13 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Чат кантону Вале](https://t.me/ValaisUkraine)
 
-[Женева і Во](https://t.me/chatsuisse)
-
 [Беженцы в Швейцарии](https://t.me/UASchweiz)
 
 [Берн](https://t.me/help_people_fromUkraine)
 
 [Фрібур](https://t.me/+h5QVWdAJof5jY2My)
 
-[Лозана](https://t.me/LousanneUkraine)
+[Чат кантону Во (Лозанна і т.д.)](https://t.me/LousanneUkraine)
 
 ### Facebook:
 
