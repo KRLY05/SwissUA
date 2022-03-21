@@ -265,6 +265,10 @@ Mercredi (reservé pour les enfants): 11h00-13h00 / 14h00-18h
 
 Також українці отримують можливість працювати на себе (аналог ФОП в україні)
 
+Сайт пошуку роботи у Швейцарії: [jobs.ch](https://www.jobs.ch/en/)
+
+Багато вакансій також є на [LinkedIn](https://www.linkedin.com/)
+
 Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 
 Канал по швейцарії: [job_sw_ukrainians](https://t.me/job_sw_ukrainians)
