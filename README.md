@@ -247,7 +247,7 @@ Mercredi (reservé pour les enfants): 11h00-13h00 / 14h00-18h
 Адреса: Kompetenzzentrum für Arbeissicherheit AG, Güterstrasse 72, 4133 Pratteln
 З понеділка до п'ятниці з 8 до 17 року.
 
-[tutti](tutti.ch) - сайт безкоштовних оголошень для пошуку будь-яких речей. У фільтрах оберіть 'gratis', дуже багато речей віддають безкоштовно.
+[tutti](tutti.ch) та [ricardo](https://www.ricardo.ch/en/) та [anabis](Anibis.ch) - сайт безкоштовних оголошень для пошуку будь-яких речей. У фільтрах оберіть 'gratis', дуже багато речей віддають безкоштовно.
 
 # Навчання
 ### Школа для дітей
