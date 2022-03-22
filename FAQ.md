@@ -1,3 +1,5 @@
+[<< Повернутися на головну](README.md)
+
 ## Популярні питання
 
 На цій сторінці зібрані відповіді на питання, які виникають у людей в Телеграм чаті [@SwissUA](https://t.me/SwissUA) найчастіше. Сторінка наповнюється адмінами чату, а також небайдужими людьми, які прагнуть поділитися корисною інформацією.
@@ -77,7 +79,7 @@ GA охоплює всю Швейцарію. PDF файл з більш дета
 
 Так, є.
 
-В Швейцарії працює щонайменше два онлайн сервіси, схожі на olx.ua. Вони називаються відповідно Tutti і Richardo.
+В Швейцарії працює щонайменше два онлайн сервіси, схожі на olx.ua. Вони називаються відповідно Tutti і Ricardo.
 
 Tutti:
 
@@ -85,7 +87,7 @@ Tutti:
 * [додаток до iOS](https://apps.apple.com/ch/app/tutti-ch-second-hand-shoppen/id541858017),
 * [додаток для Android](https://play.google.com/store/apps/details?id=ch.tutti).
 
-Richardo:
+Ricardo:
 
 * [ricardo.ch](https://www.ricardo.ch/),
 * [додаток до iOS](https://apps.apple.com/ch/app/ricardo-second-hand-shopping/id429185033),
