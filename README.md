@@ -262,6 +262,15 @@ Mercredi (reservé pour les enfants): 11h00-13h00 / 14h00-18h
 безкоштовні курси DE (Zurich, Winterthur and online)
 [sprachschule](https://www.vox-sprachschule.ch/en/refugees?utm_source=email&utm_medium=newsletter&utm_campaign=Help_Refugees)
 
+безкоштовні курси [Busuu](https://www.busuu.com/ru/c/ukraina-navchaisya-bezkoshtovno), з ними можна вивчини такі мови:  
+- Англійську
+- Польську
+- Німецьку
+- Іспанську
+- Французьку
+- Італійську
+
+
 YouTube курс [Німецька для початківців](https://youtube.com/playlist?list=PLvA1Dz5ctE4lbn5vIQOEjNvs70WFygdee)
 
 ### Навчання для студентів
