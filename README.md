@@ -72,11 +72,15 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Українці в Швейцарії (SwissUA)](https://t.me/SwissUA) <- З питаннями щодо наповнення цього сайту звертайтеся сюди
 
+[Чат Цюріх](https://t.me/ZurichUkraine)
+
 [Канал Zurich helps Ukraine](https://t.me/zh_helps_ukraine)
 
 [Чат матерів з України](https://t.me/Zh_helps_UA_mums)
 
-[Чат Цуг](https://t.me/+q894LAg3kQ1hNjRk)
+[Чат кантону Цуг](https://t.me/ZugUkraine)
+
+[Канал мам кантону Цуг](https://t.me/+q894LAg3kQ1hNjRk)
 
 [Чат Женеви](https://t.me/GeneveUkraine)
 
