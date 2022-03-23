@@ -313,9 +313,19 @@ Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 
 # Банківський рахунок
 
-Для відкриття рахунку спершу потрібно отримати дозвіл на проживання S
+Ви можете відкрити рахунок у будь якому банку Швейцарії, але лише після отримання дозволу на проживання S
 
-Безкоштовний банківський рахунок можна відкрити у [Revolut](https://www.revolut.com/en-SE/news/revolut_to_offer_payment_services_to_ukrainian_refugees_displaced_by_the_invasion)
+Безкоштовні онлайн банки:
+
+[Revolut](https://www.revolut.com/en-SE/news/revolut_to_offer_payment_services_to_ukrainian_refugees_displaced_by_the_invasion)
+
+[Neon](https://www.neon-free.ch/en/)
+
+[CSX](https://csx.credit-suisse.com/en/account-card/csx.html)
+
+[Zak](https://www.cler.ch/info/zak)
+
+[Yapeal](https://yapeal.ch/en/)
 
 # Корисні посилання
 
