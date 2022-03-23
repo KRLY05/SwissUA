@@ -360,19 +360,14 @@ Telegram бот з інформацією для біженців: [UAhelpCHbot]
 
 1. Зареєструйтеся на [github.com](https://github.com/)
 2. Відкрийте файл README.md у github: [Редагувати](https://github.com/KRLY05/SwissUA/blob/main/README.md)
-
 3. Натиснути на іконку олівця для внесення змін
-
 <img width="272" alt="image" src="https://user-images.githubusercontent.com/16836553/158842206-3801e455-90d5-4681-bc3f-42de6438867e.png">
 
 4. Внесіть ваші зміни у документ
 5. Вгорі натисніть 'Попередній перегляд' (Preview) для перевірки як буде виглядати сторінка після публікації
 6. Внизу сторінки введіть назву та опис змін що ви внесли та натисніть 'Запропонувати зміни' (Propose changes)
- 
 <img width="272" alt="image" src="https://user-images.githubusercontent.com/16836553/158882506-f4ec97b7-fbb0-4565-ac28-625ffb7e2055.jpg">
-
 7. Натисність 'Створити пул ріквест' (Create pull request) - тільки після цього адміністратор отримає ваші зміни на розгляд
-
 <img width="1291" alt="image" src="https://user-images.githubusercontent.com/9595541/159665896-3c3e94b9-8e65-4cc6-8e98-fd5ddeec0481.png">
 
 
