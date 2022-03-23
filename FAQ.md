@@ -84,11 +84,11 @@ GA охоплює всю Швейцарію. PDF файл з більш дета
 Tutti:
 
 * [tutti.ch](https://www.tutti.ch),
-* [додаток до iOS](https://apps.apple.com/ch/app/tutti-ch-second-hand-shoppen/id541858017),
-* [додаток для Android](https://play.google.com/store/apps/details?id=ch.tutti).
+* [застосунок до iOS](https://apps.apple.com/ch/app/tutti-ch-second-hand-shoppen/id541858017),
+* [застосунок для Android](https://play.google.com/store/apps/details?id=ch.tutti).
 
 Ricardo:
 
 * [ricardo.ch](https://www.ricardo.ch/),
-* [додаток до iOS](https://apps.apple.com/ch/app/ricardo-second-hand-shopping/id429185033),
-* [додаток для Android](https://play.google.com/store/apps/details?id=com.qxl.Client).
+* [застосунок до iOS](https://apps.apple.com/ch/app/ricardo-second-hand-shopping/id429185033),
+* [застосунок для Android](https://play.google.com/store/apps/details?id=com.qxl.Client).
