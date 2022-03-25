@@ -366,6 +366,8 @@ Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 
 # Тварини
 
+Офіційна інформація для біженців про ввезення тварин: [merkblatt-tiere-ukraine-ukrainisch.pdf](https://www.blv.admin.ch/dam/blv/de/dokumente/tiere/reisen-mit-heimtieren/merkblatt-tiere-ukraine-ukrainisch.pdf.download.pdf)
+
 Інформація від ветеринара по ЄС: [instagram](https://www.instagram.com/p/Cbao1XoAHna/?utm_medium=copy_link)
 
 
