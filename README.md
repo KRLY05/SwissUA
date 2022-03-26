@@ -231,6 +231,8 @@ Swisscom надає безкоштовні сім карти для біженц
 
 ### Паркування
 
+### Бесплатная парковка
+
 У Цюриху біженці з України можуть отримати безкоштовно картку для паркування у синій зоні за місцем реєстрації до 31 грудня 2022 року
 Для отримання картки паркування необхідно звернутися до Bewilligungsstelle der Dienstabteilung Verkehr за адресою Mühlegasse 18, 8001 Zürich
 З собою необхідно мати:
@@ -247,6 +249,13 @@ Swisscom надає безкоштовні сім карти для біженц
 Деталі: https://newinzurich.com/parking-in-zurich/
 
 Особи що живуть у центрі для біженців можуть отрмати інформацію стосовно паркування у центрі для біженців
+
+### Платная парковка
+
+У любой платной парковки должен быть парковочный автомат, где можно оплатить парковку. Во многих случаях парковку также можно оплатить через следующие приложения:
+
+* [https://parkingpay.ch](https://parkingpay.ch)
+* [https://easyparkswitzerland.ch](https://easyparkswitzerland.ch)
 
 # Гуманітарна допомога
 
@@ -409,11 +418,6 @@ Telegram бот з інформацією для біженців: [UAhelpCHbot]
 Порівняння цін в інтернет магазинах [toppreise.ch](https://www.toppreise.ch/en)
 
 Інформація, як допомогти українцям, німецькою мовою. [https://ukraine-direkthilfe.ch](https://ukraine-direkthilfe.ch/)
-
-Оплата за парковку машини:
-
-* [https://parkingpay.ch](https://parkingpay.ch)
-* [https://easyparkswitzerland.ch](https://easyparkswitzerland.ch)
 
 Порівняння вартості життя між Києвом та Цюріхом. [https://www.numbeo.com](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Ukraine&city1=Kiev+%28Kyiv%29&country2=Switzerland&city2=Zurich)
 
