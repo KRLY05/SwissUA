@@ -404,8 +404,6 @@ Telegram бот з інформацією для біженців: [UAhelpCHbot]
 
 Ви подали заяву до притулку в Швейцарії. Що далі? [asylum-info.ch](https://asylum-info.ch)
 
-Івенти, демонстрації. Зі списку потрібно обрати "Switzerland". [StopPutin - Upcoming Events](https://datastudio.google.com/u/0/reporting/6853205b-ec91-4b89-9fdc-61486df3d2f8/page/fXgmC)
-
 Порівняння цін (на товари, оренду, послуги та інше) [comparis.ch](https://en.comparis.ch/)
 
 Порівняння цін в інтернет магазинах [toppreise.ch](https://www.toppreise.ch/en)
