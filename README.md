@@ -96,6 +96,8 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Канал Zurich helps Ukraine](https://t.me/zh_helps_ukraine)
 
+[Цюрих, інформація для біженців](https://t.me/zh_helps_UArefugees)
+
 [Чат матерів з України](https://t.me/Zh_helps_UA_mums)
 
 [Чат кантону Цуг](https://t.me/ZugUkraine)
