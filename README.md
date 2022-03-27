@@ -431,6 +431,8 @@ Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 
 # Корисні посилання
 
+Онлайн передача про життя українських біженців у Швейцарії: [Діаспора ТВ Швейцарія](https://www.facebook.com/%D0%94%D1%96%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D0%B0-%D0%A2%D0%92-%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D1%96%D1%8F-102164459116422)
+
 Інформація для біженців: [campax.org](https://campax.org/standwithukraine-fluchtende-ukrainisch/)
 
 Telegram бот з інформацією для біженців: [UAhelpCHbot](https://t.me/UAhelpCHbot)
