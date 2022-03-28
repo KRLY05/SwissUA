@@ -158,42 +158,44 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 # Проживання
 
+### Безкоштовне житло
+
 Ви можете звернутися до одного з [центрів біженців](https://www.sem.admin.ch/sem/en/home/asyl/adressen.html)
 або спробувати знайти житло на одному з наступних ресурсів:
 
-[campax.org](https://campax.org/standwithukraine-fluchtende-ukrainisch/)
+- [campax.org](https://campax.org/standwithukraine-fluchtende-ukrainisch/)
 
-[unitedforu.org](https://www.unitedforu.org/)
+- [unitedforu.org](https://www.unitedforu.org/)
 
-[ukrainetakeshelter.com](https://www.ukrainetakeshelter.com/)
+- [ukrainetakeshelter.com](https://www.ukrainetakeshelter.com/)
 
-[icanhelp.host](https://icanhelp.host/)
+- [icanhelp.host](https://icanhelp.host/)
 
-[shelter4ua.com](https://www.shelter4ua.com)
+- [support-ukraine.ch](https://support-ukraine.ch)
 
-[support-ukraine.ch](https://support-ukraine.ch)
+- [host4ukraine.com](https://www.host4ukraine.com/)
 
-[host4ukraine.com](https://www.host4ukraine.com/)
+- [homesforukraine.eu](https://homesforukraine.eu/uk/home-ukr)
 
-[homesforukraine.eu](https://homesforukraine.eu/uk/home-ukr)
+- Телеграм канал, житло у Цюриху: [zh_housing](https://t.me/zh_housing)
 
-Телеграм канал, житло у Цюриху: [zh_housing](https://t.me/zh_housing)
-
-Приватне житло для біженців. Оселитися гостем у сім'ї.
+- Приватне житло для біженців. Оселитися гостем у сім'ї.
 [shelter4ua](https://www.shelter4ua.com/en/get_help)
 За посиланням треба вибрати країну Швейцарія
 Якщо не виходить скористатися формою, ви можете зв'язатися з цими контактами:
+    - **Halyna Ilyasevych Rauber** +41 79 283 83 70 halyna.rauber@gmail.com
+    - **Halyna Rinner** +41 79 443 37 32 halyna.rinner79@gmail.com
 
-* **Halyna Ilyasevych Rauber** +41 79 283 83 70 halyna.rauber@gmail.com
-* **Halyna Rinner** +41 79 443 37 32 halyna.rinner79@gmail.com
-
-Мережа хостелів
+- Мережа хостелів
 [youthhostel](https://www.youthhostel.ch/)
 Пропонується безкоштовне перебування до 3 ночей.
 Можна звернутися по телефону в конкретний хостел у місті, де ви знаходитесь. Служба бронювання: +41 44 360 14 14
 Для заселення потрібен паспорт
 
-#### Платне житло:
+- Тимчасове житло на 2-3 тижні через Airbnb будь-де в світі
+[Інструкція як подати заявку:](https://novaukraine.org/airbnb)
+
+### Платне житло
 
 Агрегатор пошуку оренди та придбання власного житла: [comparis.ch/immobilien](https://en.comparis.ch/immobilien)
 
