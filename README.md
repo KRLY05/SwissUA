@@ -392,6 +392,10 @@ Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 
 Вакансія для лікарів у Цюриху зі знанням української або російської: [medicjobs.ch](https://www.medicjobs.ch/jobs/arztinnen-arzte-fur-medizinische-grundversorgung-ukrainischer-fluchtlinge-1-jahr-befristet/64355/?utm_source=jooble&utm_medium=cpc&utm_campaign=allvacancies&fbclid=IwAR0OFmCocChjcQqvuEBtXNusY06Ju6qcCDbrxreFaX3Bkv0_3vdS6Ts07KQ)
 
+Помічник/ця на кухні (клінінг, допомога з приготуванням їжею). Мінімальне знання англійської чи німецької буде перевагою. 
+Шеф-кухар (англійська чи німецька). Офіціанти (вимагають мінімальну англійську і німецьку і досвід роботи).
+Ці та ще багато інших вакансій шукайте на [сайті групи готелів](https://careers.accor.com/de/de/search-results?keywords=Z%C3%BCrich)
+
 # Банки та Фінанси
 
 ## Банківський рахунок
