@@ -199,6 +199,7 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 ### Платне житло
 
+Рекомендуется к прочтению [официальная брошюра о аренде жилья на Украинском языке](https://www.bwo.admin.ch/dam/bwo/de/dokumente/02_Wie_wir_wohnen/27_Infoblatt-Wohnen/informationsblatt/ukrainisch.pdf.download.pdf/ukrainisch.pdf).
 Агрегатор пошуку оренди та придбання власного житла: [comparis.ch/immobilien](https://en.comparis.ch/immobilien)
 
 [immomapper.ch](https://www.immomapper.ch/)
