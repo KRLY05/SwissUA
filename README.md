@@ -371,6 +371,8 @@ YouTube курс [Німецька для початківців](https://youtub
 
 Інформацйна сторінка [hrforukraine](https://hrforukraine.notion.site)
 
+[Kork](https://www.getkork.com)
+
 ### Телеграм канали:
 
 Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
