@@ -353,6 +353,8 @@ YouTube курс [Німецька для початківців](https://youtub
 
 ### Сайти пошуку роботи:
 
+Пошук роботи для українців [jobcloud.ch/c/en/ukraine-friendly-jobs-switzerland](https://www.jobcloud.ch/c/en/ukraine-friendly-jobs-switzerland)
+
 Сайт пошуку роботи у Швейцарії: [jobs.ch](https://www.jobs.ch/en/)
 
 [helpukrainians.jooble.org](https://helpukrainians.jooble.org)
