@@ -378,6 +378,8 @@ YouTube курс [Німецька для початківців](https://youtub
 
 Інформацйна сторінка [hrforukraine](https://hrforukraine.notion.site)
 
+[Swiss-Ukrainian Job Facebook Group](https://www.facebook.com/groups/387684662799211/)
+
 [Kork](https://www.getkork.com)
 
 ### Телеграм канали:
