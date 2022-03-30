@@ -382,6 +382,8 @@ YouTube курс [Німецька для початківців](https://youtub
 
 [Swiss-Ukrainian Job Facebook Group](https://www.facebook.com/groups/387684662799211/)
 
+[Work-and-study program at Google](https://www.linkedin.com/posts/nikita-yarovoi-26245162_apprenticeships-build-your-future-with-activity-6914977354402451456-OUzB)
+
 [Kork](https://www.getkork.com)
 
 ### Телеграм канали:
