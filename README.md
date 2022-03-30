@@ -332,6 +332,7 @@ YouTube курс [Німецька для початківців](https://youtub
 - https://ethz.ch/services/en/news-and-events/solidarity-with-ukraine.html: *"As part of its emergency aid programme, ETH Zurich is providing refugees from Ukraine with uncomplicated and rapid admission as auditors. This includes attendance of courses, access to ETH IT infrastructure, etc."*
 - https://www.unifr.ch/home/en/solidarity-ukraine/: *"BA, MA and PhD students may come to Unifr as host students. Study fees are waived."*
 - https://www.unibas.ch/de/Aktuell/Ukraine.html: Пропозиція Університету Базель на основі програми обміну студентів Gaststudent
+- https://www.hesge.ch/head/en/event/2022/solidarity-ukraine-concrete-possibilities-welcome-refugees: Пропозиція для студентів, викладачів та науковців у галузі мистецтва від Женевської школи мистецтв та дизайну (HEAD) в Женеві.
 
 
 # Медицина та Страхування
