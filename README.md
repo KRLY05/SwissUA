@@ -417,6 +417,8 @@ Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 
 Ви можете відкрити рахунок у будь якому банку Швейцарії, але лише після отримання дозволу на проживання S
 
+[Відкриття безкоштовного рахунку в Credit Suisse](https://csx.credit-suisse.com/en/account-card/csx/csx-status-s.html?WT.i_short-url=%2Fukraine&WT.i_target-url=https%3A%2F%2Fcsx.credit-suisse.com%2Fen%2Faccount-card%2Fcsx%2Fcsx-status-s.html&fbclid=IwAR2In3odCJcrrHbzNaSXZ9vHmJ0aQd4VnH5vrpohuCqxXJzcdDkdKlZdswo)
+
 Безкоштовні онлайн банки:
 
 [Revolut](https://www.revolut.com/en-SE/news/revolut_to_offer_payment_services_to_ukrainian_refugees_displaced_by_the_invasion)
