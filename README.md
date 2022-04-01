@@ -341,6 +341,7 @@ YouTube курс [Німецька для початківців](https://youtub
 - https://www.hesge.ch/head/en/event/2022/solidarity-ukraine-concrete-possibilities-welcome-refugees: Пропозиція для студентів, викладачів та науковців у галузі мистецтва від Женевської школи мистецтв та дизайну (HEAD) в Женеві.
 - https://www.facebook.com/100023066118368/posts/901017947343734/: підтримка для студентів бакалавриау, магістратури и аспірантури від універсітету UZH
 - https://docs.google.com/spreadsheets/d/1HqTKukfJGpmowQnSh4CoFn3T6HXcNS1T1pK-Xx9CknQ/edit#gid=320641758 - лабораторії университетів світу, що підтримують Українців. Потрібно відфільтрувати за значеннями "Switzerland" та "Switzerand" колонку "Country"
+- https://www.fhnw.ch/en/startseite - University of Applied Sciences and Arts Northwestern Switzerland у співробітництві з Laurenz Foundation приймуть на 1 рік 20 студентів з України, що вивчають Art та Design
 
 # Медицина та Страхування
 
