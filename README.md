@@ -336,7 +336,7 @@ YouTube курс [Німецька для початківців](https://youtub
 - https://www.unifr.ch/home/en/solidarity-ukraine/: *"BA, MA and PhD students may come to Unifr as host students. Study fees are waived."*
 - https://www.unibas.ch/de/Aktuell/Ukraine.html: Пропозиція Університету Базель на основі програми обміну студентів Gaststudent
 - https://www.hesge.ch/head/en/event/2022/solidarity-ukraine-concrete-possibilities-welcome-refugees: Пропозиція для студентів, викладачів та науковців у галузі мистецтва від Женевської школи мистецтв та дизайну (HEAD) в Женеві.
-
+- https://www.facebook.com/100023066118368/posts/901017947343734/: підтримка для студентів бакалавриау, магістратури и аспірантури від універсітету UZH
 
 # Медицина та Страхування
 
