@@ -389,6 +389,8 @@ YouTube курс [Німецька для початківців](https://youtub
 [Kork](https://www.getkork.com)
 
 [UACH.info, Jobs in Switzerland🇨🇭 for Ukrainian refugees](https://uach.info)
+
+[Пропозиція роботи від Credit Suisse](https://ch.indeed.com/Zeige-Job?jk=78086f916348cd96)
 ### Телеграм канали:
 
 Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
