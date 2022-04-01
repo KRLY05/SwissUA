@@ -496,6 +496,8 @@ RAZOM працює у форматі оголошень і виходячи з �
 
 [Форум українців/нок в Швейцарії](https://www.ukrainians.ch/)
 
+[Памʼятка тим, хто приймає біженців у Швейцарії](https://www.axa.ch/de/privatkunden/blog/zuhause/recht-und-justiz/aufnahme-fluechtlinge-ukraine.html?utm_source=facebook&utm_medium=social-organic&utm_campaign=blog_2021)
+
 # Протести
 
 Найближчі протести. Зі списку потрібно обрати "Switzerland". [StopPutin - Upcoming Events](https://datastudio.google.com/u/0/reporting/6853205b-ec91-4b89-9fdc-61486df3d2f8/page/fXgmC)
