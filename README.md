@@ -97,6 +97,8 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Чат Цюрих](https://t.me/ZurichUkraine)
 
+[Чат "Zürich Главный Вокзал помощь"](https://t.me/zurich_hb_help)
+
 [Канал Zurich helps Ukraine](https://t.me/zh_helps_ukraine)
 
 [Цюрих, інформація для біженців](https://t.me/zh_helps_UArefugees)
