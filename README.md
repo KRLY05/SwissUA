@@ -470,6 +470,8 @@ Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 
 Інформація від ветеринара по ЄС: [instagram](https://www.instagram.com/p/Cbao1XoAHna/?utm_medium=copy_link)
 
+Канал "Help PETS from Ukraine 🇺🇦: 🇨🇭Zürich. допомога для 🐶": https://t.me/helppetsfromukraine
+
 # Дозвілля
 
 Зоопарк у Цюриху пропонує значну знижку для біженців - лише за 7chf ви можете провести там цілий день [zoo.ch](https://www.zoo.ch/en)
