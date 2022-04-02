@@ -573,3 +573,5 @@ RAZOM працює у форматі оголошень і виходячи з �
 
 ### Попросити волонтерів
 Ви можете запропонувати зміни до сайту, відправивши вашу інформацію або пропозиції до спеціально створеної групи [SwissUA - Edit website](https://t.me/+RMdYFDidYr00NmMy)
+### Форма (у тестовому режимі)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-OhL9bujV-Kl2gCtZ5guDsK5Vz1Hy1o_3JZ1a2e0VVUeh1g/viewform?embedded=true" width="640" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
