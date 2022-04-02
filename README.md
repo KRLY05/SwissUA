@@ -572,4 +572,4 @@ RAZOM працює у форматі оголошень і виходячи з �
 ### Попросити волонтерів
 Якщо ви не маєте можливості внести зміни самостійно, заповніть цю форму. Волонтери згодом додадуть вашу інформацію до сайту
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-OhL9bujV-Kl2gCtZ5guDsK5Vz1Hy1o_3JZ1a2e0VVUeh1g/viewform?embedded=true" width="320" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-OhL9bujV-Kl2gCtZ5guDsK5Vz1Hy1o_3JZ1a2e0VVUeh1g/viewform?embedded=true" width="400" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
