@@ -41,7 +41,17 @@
 
 > **How many people from Ukraine is Switzerland prepared to take in?**
 > 
-> […] Anyone who was resident in Ukraine before 24 February will receive protection status S – there is no quantitative limitation! 
+> […] Anyone who was resident in Ukraine before 24 February will receive protection status S – there is no quantitative limitation!
+>  
+### Як я можу отримати соціальну допомогу?
+
+Є офіційні кроки для отримання офіційноїофіційної соціальної допомоги:
+- подати заяву на перміт S
+- сповістити лендлорда що ви там живете, отримати від нього підтвердження
+- дочекатися офіційного листа у якому буде вказано до якого кантону вас прив'язують
+- піти до kreisburo з цими документами і паспортом для реєстрації місця проживання
+- після реєстрації ви маєте можливість отримувати офіційну соціальну допомогу (наприклад для Цюріху це в AOZ(Kasernenstrasse 49, 8004))
+
 
 ### Чи зможу я подорожувати після отримання статусу “S“?
 
