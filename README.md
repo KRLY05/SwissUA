@@ -470,7 +470,10 @@ Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 - В Австрії – у відділеннях Raiffeisen Bank та Erste Bank Oesterreich;
 - У Молдові – у відділеннях OTP Bank; 
 - У Румунії – у відділеннях Banca Comersiala Romana;
-- у Польщі
+- У Словаччині - у відділеннях Tatra banka (дочірній банк групи Raiffeisen);
+- у Польщі - у відділеннях PKO Bank Polski.
+
+Більше інформації про умови обміну та адреси відділень: [visitukraine.today](https://visitukraine.today/uk/blog/241/useful-information-about-the-exchange-of-hryvnia-in-cash-abroad).
 
 Якщо Ви маєте картку Українського банку, Ви можете використовувати її для оплати.
 Також ви можете зняти готівку з гривневої карти (гроші ви отримаєте у швейцарських франках)
