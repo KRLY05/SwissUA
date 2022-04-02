@@ -100,7 +100,7 @@ GA охоплює всю Швейцарію. PDF файл з більш дета
 
 Так, є.
 
-В Швейцарії працює щонайменше два онлайн сервіси, схожі на olx.ua. Вони називаються відповідно Tutti і Ricardo.
+В Швейцарії працює декілька онлайн сервісів, за призначенням схожі на olx.ua. Найпопулярнішими є сервіси під назвоню "Tutti" і "Ricardo".
 
 Tutti:
 
@@ -113,3 +113,11 @@ Ricardo:
 * [ricardo.ch](https://www.ricardo.ch/),
 * [застосунок до iOS](https://apps.apple.com/ch/app/ricardo-second-hand-shopping/id429185033),
 * [застосунок для Android](https://play.google.com/store/apps/details?id=com.qxl.Client).
+
+Unimarkt:
+
+* [https://markt.unibas.ch/category/gratis-tauschen-gratis/2]
+
+Anibis:
+
+* [http://anibis.ch]
