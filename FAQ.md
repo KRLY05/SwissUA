@@ -116,8 +116,8 @@ Ricardo:
 
 Unimarkt:
 
-* [https://markt.unibas.ch/category/gratis-tauschen-gratis/2]
+* [markt.unibas.ch](https://markt.unibas.ch/category/gratis-tauschen-gratis/2)
 
 Anibis:
 
-* [http://anibis.ch]
+* [anibis.ch](https://www.anibis.ch/)
