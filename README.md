@@ -554,7 +554,7 @@ RAZOM працює у форматі оголошень і виходячи з �
 ### Самостійно
 
 1. Зареєструйтеся на [github.com](https://github.com/)
-2. Відкрийте файл README.md у github: [Редагувати](https://github.com/KRLY05/SwissUA/blob/main/README.md)
+2. Відкрийте файл README.md у github: [Редагувати](https://github.com/KRLY05/SwissUA/edit/main/README.md)
 3. Натиснути на іконку олівця для внесення змін
 
     <img width="272" alt="image" src="https://user-images.githubusercontent.com/16836553/158842206-3801e455-90d5-4681-bc3f-42de6438867e.png">
