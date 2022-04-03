@@ -337,6 +337,7 @@ Mercredi (reservé pour les enfants): 11h00-13h00 / 14h00-18h
 
 [У Женеві](https://www.facebook.com/alyonavinogradova/posts/10220089680568049)
 [у Швитц (ближче до Цюріху)](http://www.ridna-schkola-in-zh.ch/)
+[Тичіно] (https://www4.ti.ch/decs/dfp/its/progetto-q-ua-ucraina/progetto-q-ua-ucraina/)
 
 ### Мовні курси
 [Гете інститут](https://www.goethe.de/ins/ua/uk/index.html) пропонує онлайн курс а1, а2 за 7 грн для українців [](https://www.goethe.de/ins/ua/de/m/spr/kur/aka.html)
