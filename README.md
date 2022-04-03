@@ -140,6 +140,14 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Чат кантону Во (Лозанна і т.д.)](https://t.me/LousanneUkraine)
 
+[Чат Біль (Biel/Bienne)](https://t.me/BielBienneUkraine)
+
+[Чат Тун](https://t.me/ThunUkraine)
+
+[Чат Золотурн](https://t.me/SolothurnUkraine)
+
+[Чат Вінтертур](https://t.me/WinterthurUkraine) 
+
 [Beauty мастера в Швейцарии](https://t.me/BeautySwitzerland)
 
 [Совместные прогулки Цюрих (чат мам)](https://t.me/+VKmD_Rt-yQ44NzFk)
