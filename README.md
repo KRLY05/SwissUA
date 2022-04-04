@@ -391,7 +391,7 @@ YouTube курс [Німецька для початківців](https://youtub
 
 # Медицина та Страхування
 
-Ви отримуєте медичне страхування безкоштовно після реєстрації на перміт S
+Ви отримуєте медичне страхування безкоштовно після реєстрації на перміт S, але звертатись за необхідною допомогою при потребі Вам можна і до отримання статусу.
 
 Якщо вам потрібна допомога негайно, необхідно звернутися у будь який шпиталь - Notfall відділення, там вас проконсультують та нададуть необхідну допомогу.
 З документів звісно потрібно мати паспорт, та бажано Bestätigung (підтвердження), яке ви отримали після реєстрації у центрі біженців.
@@ -399,6 +399,10 @@ YouTube курс [Німецька для початківців](https://youtub
 
 З дітьми потрібно йти у дитячі шпиталі, бо не всюди лікують дітей.
 У Цюриху такий наприклад ось тут: [kispi.uzh.ch](https://www.kispi.uzh.ch/)
+
+Лікарський центр у Цюриху, який працює в порядку живої черги (без запису) і без вихідних з 7 до 22 - [Permanence](https://permanence.ch/en/)
+
+Безкоштовна гаряча лінія для медичних консультацій по телефону по всій Швейцарії англійською, німецькою - 058 387 77 20. Може ще скоро додадуть українську мову [джерело даних](https://www.bzbasel.ch/basel/krieg-in-der-ukraine-basler-firma-baut-beratungshotline-auf-ukrainisch-sprechende-aerzte-gesucht-ld.2264634?fbclid=IwAR3QbShouzNibK_e35ljnDwDZXfpCyiyMe72DgEaqAPcUme5KmkrLavSQ7c)
 
 # Робота
 
@@ -566,7 +570,6 @@ Telegram бот з інформацією для біженців: [UAhelpCHbot]
 RAZOM працює у форматі оголошень і виходячи з налаштувань показує лише актуальну інформацію.
 
 [Форум українців/нок в Швейцарії](https://www.ukrainians.ch/)
-
 
 Памʼятка тим, хто приймає біженців у Швейцарії [українською](https://www.axa.ch/de/privatkunden/blog/zuhause/recht-und-justiz/aufnahme-fluechtlinge-ukraine.html?utm_source=facebook&utm_medium=social-organic&utm_campaign=blog_2021) [english](https://www.axa.ch/en/privatkunden/blog/at-home/law-and-justice/Taking%20in-Ukrainian-refugees.html)
 
