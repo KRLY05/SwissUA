@@ -345,17 +345,18 @@ Yallo - безкоштовні сімки без реєстрації (дост�
 
 Неофіційна соціальна допомога:
 
-[Вале](http://ukraine-valais.ch)
+- [Вале](http://ukraine-valais.ch)
 
-[Цюрих](https://t.me/zh_helps_ukraine)
+- [Цюрих](https://t.me/zh_helps_ukraine)
 
-CARITAS
-Lundi, mardi, jeudi et vendredi: 13h30-17h
-Mercredi (reservé pour les enfants): 11h00-13h00 / 14h00-18h
-
+- CARITAS
+ Lundi, mardi, jeudi et vendredi: 13h30-17h
+ Mercredi (reservé pour les enfants): 11h00-13h00 / 14h00-18h
 [caritas-geneve](http://www.caritas-geneve.ch/caritasge/trouver-de-l-aide/aide-d-urgence/vestiaire-social)
 
-Списки некомерційних дошок оголошень у телеграмі: [unkomarkt](https://t.me/unkomarkt)
+- Списки некомерційних дошок оголошень у телеграмі: [unkomarkt](https://t.me/unkomarkt)
+
+- Волонтерський ресурс де публікують збори та роздачі гуманітарної допомоги: [helpus](https://helpus.atlassian.net/wiki/spaces/INFORMATIO/overview)
 
 Безкоштовне забезпечення:
 У Прательні (Pratteln) біженці з України можуть безкоштовно взяти речі: продукти харчування, речі гігієни, одяг.
