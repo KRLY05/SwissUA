@@ -1,4 +1,4 @@
-Цей сайт створено та наповнюється за принципами Wikipedia
+Цей сайт створено та наповнюється за принципами Wikipedia
 
 Кожен може самостійно вносити зміни або додавати корисну інформацію згідно [інструкції](#внесення-змін-до-сайту)
 
@@ -515,22 +515,25 @@ Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 
 ## Банківський рахунок
 
-[Покрокова інструкція, як відкрити рахунок](account.md)
-Ви можете відкрити рахунок у будь-якому банку Швейцарії, але лише після отримання дозволу на проживання S
+Ви можете відкрити рахунок у будь-якому банку Швейцарії
 
-[Відкриття безкоштовного рахунку в Credit Suisse](https://csx.credit-suisse.com/en/account-card/csx/csx-status-s.html?WT.i_short-url=%2Fukraine&WT.i_target-url=https%3A%2F%2Fcsx.credit-suisse.com%2Fen%2Faccount-card%2Fcsx%2Fcsx-status-s.html&fbclid=IwAR2In3odCJcrrHbzNaSXZ9vHmJ0aQd4VnH5vrpohuCqxXJzcdDkdKlZdswo)
+Oнлайн банки відкривають рахунок лише після того як ви отримаєте дозвіл на проживання S
+
+Для відкриття рахунку до отримання перміту S, необхідно звернутися у відділення одного з класични банків: [Покрокова інструкція](account.md)
 
 Безкоштовні онлайн банки:
 
-[Revolut](https://www.revolut.com/en-SE/news/revolut_to_offer_payment_services_to_ukrainian_refugees_displaced_by_the_invasion)
+- [Revolut](https://www.revolut.com/en-SE/news/revolut_to_offer_payment_services_to_ukrainian_refugees_displaced_by_the_invasion)
 
-[Neon](https://www.neon-free.ch/en/)
+- [Neon](https://www.neon-free.ch/en/)
 
-[CSX](https://csx.credit-suisse.com/en/account-card/csx.html)
+- Credit Swiss (CSX) [Сторінка українською](https://csx.credit-suisse.com/en/account-card/csx/csx-status-s.html?WT.i_short-url=%2Fukraine&WT.i_target-url=https%3A%2F%2Fcsx.credit-suisse.com%2Fen%2Faccount-card%2Fcsx%2Fcsx-status-s.html&fbclid=IwAR2In3odCJcrrHbzNaSXZ9vHmJ0aQd4VnH5vrpohuCqxXJzcdDkdKlZdswo), [Сторінка англійською](https://csx.credit-suisse.com/en/account-card/csx.html)
 
-[Zak](https://www.cler.ch/info/zak)
+- [Zak](https://www.cler.ch/info/zak)
 
-[Yapeal](https://yapeal.ch/en/)
+- [Yapeal](https://yapeal.ch/en/)
+
+
 
 ## Обмін валют
 
