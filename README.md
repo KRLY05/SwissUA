@@ -456,7 +456,7 @@ YouTube курс [Німецька для початківців](https://youtub
 
 [remoteukraine](https://remoteukraine.org/)
 
-[https://www.workinswiss.ch/](https://www.workinswiss.ch/)
+[https://www.workinswiss.ch/](https://www.workinswiss.ch/) - сайт створений українцями що давно проживають у Швейцірї
 
 Багато вакансій також є на [LinkedIn](https://www.linkedin.com/)
 
