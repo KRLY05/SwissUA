@@ -567,7 +567,7 @@ Oнлайн банки відкривають рахунок лише після
 
 [Дитяча україномовна музична школа в Цюриху](https://www.facebook.com/savytska.anna/posts/10226490668235128)
  
-[Украънський культурний центр в Женевы](https://www.facebook.com/CentreCulturelUkrainienGeneve/) 
+[Український культурний центр в Женеві](https://www.facebook.com/CentreCulturelUkrainienGeneve/) 
 
 # Корисні посилання
 
