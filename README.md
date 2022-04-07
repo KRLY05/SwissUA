@@ -619,6 +619,7 @@ RAZOM працює у форматі оголошень і виходячи з �
 Плакати для протесту
 - [https://t.me/SwissUA/6829](https://t.me/SwissUA/6829)
 - [collection of posters on supportukrainenow.org](https://supportukrainenow.org/join-a-protest-in-your-city)
+- [Posters by Gianluca Costantini](https://drive.google.com/drive/folders/1uP7hJ5jGN6CSM2A9E-d7tXKstfXWGonh?usp=sharing)
 
 # Внесення змін до сайту
 ### Самостійно
