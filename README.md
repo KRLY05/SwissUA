@@ -389,6 +389,8 @@ https://www.green.ch/en/ukraine-internet
 [Тичіно] (https://www4.ti.ch/decs/dfp/its/progetto-q-ua-ucraina/progetto-q-ua-ucraina/)
 [Дітки квітки](https://www.facebook.com/ditkykvitky) - уроки української мови, математики, трудового навчання, малювання, співу, музики і майстеркласи з дітьми. Багато безкоштовних пропозицій для біженців.
 
+[Безкоштовний онлайн доступ до підручників українською мовою](https://www.lmvz.ch/services/ukraine)
+
 ### Мовні курси
 [Гете інститут](https://www.goethe.de/ins/ua/uk/index.html) пропонує онлайн курс а1, а2 за 7 грн для українців [](https://www.goethe.de/ins/ua/de/m/spr/kur/aka.html)
 
