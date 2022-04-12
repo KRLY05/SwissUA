@@ -58,6 +58,9 @@
 
 Цюрих - Відповіді на питання біженців та для тих, хто хоче допомогти [www.stadt-zuerich.ch](https://www.stadt-zuerich.ch/portal/de/index/aktuelles/ukraine/ua-faq-unterstuezung-gefluechtete-ukraine.html)
 
+[Список важливих питань та відповіді від SEM(міграційного центру)](https://www.sem.admin.ch/sem/de/home/sem/aktuell/ukraine-hilfe.html) 
+(поїздка, робота, перетин кордону, робота у інщому кантоні, тощо)
+
 # Дозвіл на проживання
 
 Офіційна інформація українською на сайті міграційної служби: [sem.admin.ch](https://www.sem.admin.ch/sem/de/home/sem/aktuell/ukraine-hilfe.html)
