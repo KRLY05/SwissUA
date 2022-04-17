@@ -137,6 +137,8 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Українці в Швейцарії (SwissUA)](https://t.me/SwissUA) <- З питаннями щодо наповнення цього сайту звертайтеся сюди
 
+[UAhelpCHbot: 🇺🇦Помощь беженцам в Швейцарии🇨🇭](https://t.me/UAhelpCHbot) - Telegram бот з інформацією для біженців в інтерактивному форматі
+
 [Чат Цюрих](https://t.me/ZurichUkraine)
 
 [Чат "Zürich Главный Вокзал помощь"](https://t.me/zurich_hb_help)
@@ -196,6 +198,12 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 [Совместные прогулки Цюрих (чат мам)](https://t.me/+VKmD_Rt-yQ44NzFk)
 
 [Українська творчість в Швейцарії](https://t.me/UAartInSwiss)
+
+[🇺🇦🇨🇭Українці в Швейцарії 🇪🇺| Naym.me](https://t.me/naym_switzerland) - Все про законодавчі норми, документи, роботу, житло, перебування та багато іншого.  Платформа naym.me.
+
+[Украинцы в Швейцарии: совместные мероприятия](https://t.me/events_UA_in_CH) - Спільні прогулянки, зустрічі, майстер-класи, концерти та ін.
+
+[💙Украинцы 💛в Швейцарии.🇨🇭🤘INFO NEWS!](https://t.me/ukrainian_in_Swiss) - Інформаційний канал достовірних та офіційних новин та рекомендацій для громадян України у Швейцарії.
 
 ### Facebook:
 
@@ -514,6 +522,7 @@ YouTube курс [Німецька для початківців](https://youtub
 [UACH.info, Jobs in Switzerland🇨🇭 for Ukrainian refugees](https://uach.info)
 
 [Пропозиція роботи від Credit Suisse](https://ch.indeed.com/Zeige-Job?jk=78086f916348cd96)
+
 ### Телеграм канали:
 
 Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
@@ -616,7 +625,7 @@ Oнлайн банки відкривають рахунок лише після
 
 Інформація для біженців: [campax.org](https://campax.org/standwithukraine-fluchtende-ukrainisch/)
 
-Telegram бот з інформацією для біженців: [UAhelpCHbot](https://t.me/UAhelpCHbot)
+Telegram бот з інформацією для біженців в інтерактивному форматі: [UAhelpCHbot: 🇺🇦Помощь беженцам в Швейцарии🇨🇭](https://t.me/UAhelpCHbot)
 
 Адреси центрів для біженців: [https://www.sem.admin.ch/sem/en/home/asyl/adressen.html](https://www.sem.admin.ch/sem/en/home/asyl/adressen.html)
 
