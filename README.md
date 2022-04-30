@@ -251,6 +251,8 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [IMAGINE. Ukraine in Bern](https://www.facebook.com/groups/1159752504794618/?ref=share)
 
+[Ukraine2Swiss](https://www.facebook.com/Ukraine2Swiss/)
+
 ### WhatsApp:
 
 [Допомога біженцям у Швейцарії](https://chat.whatsapp.com/F1f18mV9oDM35nuTiQTTAs)
@@ -309,6 +311,8 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 - [hospitalitysupport.org](https://www.hospitalitysupport.org/apply-now?type=guest)
 
 - [fluechtlingen-helfen.ch](https://www.fluechtlingen-helfen.ch/wohnraum)
+
+- [Житло для людей і домашніх улюбленців](https://help.tasso.net/uk/)
 
 - Телеграм канал, житло у Цюриху: [zh_housing](https://t.me/zh_housing)
 
@@ -437,6 +441,8 @@ https://www.green.ch/en/ukraine-internet
 
 - Волонтерський ресурс де публікують збори та роздачі гуманітарної допомоги: [helpus](https://helpus.atlassian.net/wiki/spaces/INFORMATIO/overview)
 
+- Документ куди додають місця видачі їжі: [doc](https://docs.google.com/document/d/1TaBPouBhjQKumOmxs6MSa4MhUoOIkSkOOArKB7Kj_gI/edit#heading=h.vmimuu3q6zme)
+
 Безкоштовне забезпечення:
 У Прательні (Pratteln) біженці з України можуть безкоштовно взяти речі: продукти харчування, речі гігієни, одяг.
 Адреса: Kompetenzzentrum für Arbeissicherheit AG, Güterstrasse 72, 4133 Pratteln
@@ -458,9 +464,12 @@ https://www.green.ch/en/ukraine-internet
 [Тичіно] (https://www4.ti.ch/decs/dfp/its/progetto-q-ua-ucraina/progetto-q-ua-ucraina/)
 
 [Дітки квітки](https://www.facebook.com/ditkykvitky) - уроки української мови, математики, трудового навчання, малювання, співу, музики і майстеркласи з дітьми. Багато безкоштовних пропозицій для біженців. Для переселенців безкоштовно, для жителів Швейцарії — донат.
-Facebook: [ditkykvitky](https://www.facebook.com/ditkykvitky)
-Інстаграм: [ditky.kvitky](www.instagram.com/ditky.kvitky/)
-Телеграм: [itkykvitky]](https://t.me/+5v3p8Xcfjuk1ODBk)
+- Інстаграм: [ditky.kvitky](www.instagram.com/ditky.kvitky/)
+- Телеграм: [itkykvitky]](https://t.me/+5v3p8Xcfjuk1ODBk)
+
+Українська школа «Мрія» у Швейцарії
+- Cайт: [www.mrija.schule](https://www.mrija.schule/)
+- Facebook: https://www.facebook.com/groups/mrija.schule
 
 [Безкоштовний онлайн доступ до підручників українською мовою](https://www.lmvz.ch/services/ukraine)
 
@@ -480,6 +489,8 @@ Facebook: [ditkykvitky](https://www.facebook.com/ditkykvitky)
 - Іспанську
 - Французьку
 - Італійську
+
+Безкоштовні онлайн курси [school777](https://www.school777.org/ua)
 
 Безкоштовні курси французької мови для українців. Для запису необхідно надіслати заявку на francais.gymnase.ukraine@gmail.com або або заповнити [онлайн форму](https://forms.gle/udN6qLeQVMkWzpgZA).
 Адреса: 1260 Nyon, Rte de Divonne 8b (Gymnase de Nyon).
@@ -584,6 +595,8 @@ YouTube курс [Німецька для початківців](https://youtub
 
 [Пропозиція роботи від Credit Suisse](https://ch.indeed.com/Zeige-Job?jk=78086f916348cd96)
 
+Віддалена робота для українців  [workadojobs](https://t.me/workadojobs)
+
 ### Телеграм канали:
 
 Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
@@ -604,6 +617,8 @@ Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 у [онлайн формі](https://docs.google.com/forms/d/e/1FAIpQLSdGUbokTspn3dCADdRY4UauOqejZKGpTnjxaHh0KULZ8FhJ7A/viewform?usp=sf_link) ви можете вказати, які послуги ви б могли надати українцям безкоштовно, або за мінімальну плату. (Наприклад, підстригти дорослого чи дитину, або допомогти з організацією дня народження дитини). Окрім, того можливо у перспективі зможемо рекомендувати один одного для працевлаштування на ті чи інші роботи. Контакт організатора: [@ledi_u](https://t.me/ledi_u)
 
 Безкоштовне фото для резюме, фотографія ваших виробів. Деталі у [пості](https://www.facebook.com/groups/529855118408513/permalink/547159373344754/)
+
+Персоналізована допомога з пошуком роботи [job-support-for-ukrainians](https://pages.volunteer-vision.com/job-support-for-ukrainians)
 
 Вакансія для лікарів у Цюриху зі знанням української або російської: [medicjobs.ch](https://www.medicjobs.ch/jobs/arztinnen-arzte-fur-medizinische-grundversorgung-ukrainischer-fluchtlinge-1-jahr-befristet/64355/?utm_source=jooble&utm_medium=cpc&utm_campaign=allvacancies&fbclid=IwAR0OFmCocChjcQqvuEBtXNusY06Ju6qcCDbrxreFaX3Bkv0_3vdS6Ts07KQ)
 
@@ -662,9 +677,15 @@ Oнлайн банки відкривають рахунок лише після
 
 Офіційна інформація для біженців про ввезення тварин: [інструкції на цьому сайті](https://www.blv.admin.ch/blv/de/home/tiere/reisen-mit-heimtieren.html). Треба прокрутити донизу до посилання під назвою `Інструкції щодо перевезення котів і собак біженцями з України`
 
+Допомога для домашніх тварин з України: [help-for-ukraine-pets.ch](https://www.help-for-ukraine-pets.ch/uk)
+
 Інформація від ветеринара по ЄС: [instagram](https://www.instagram.com/p/Cbao1XoAHna/?utm_medium=copy_link)
 
 Канал "Help PETS from Ukraine 🇺🇦: 🇨🇭Zürich. допомога для 🐶": https://t.me/helppetsfromukraine
+
+Ваучери допомоги тваринам від [fressnapf](https://www.fressnapf.ch/de/). Потрібно зробити запит: sozialarbeittiere@susyutzinger.ch тел. +41 52 202 69 69; Деталі: [susyutzinger](https://www.susyutzinger.ch/Aktivitaeten/Soforthilfe/Aktuell-Hilfe-fuer-Ukrainische-Gefluechtete-und-ihre-Tiere?fbclid=IwAR133M18KzwMWieMl6Zp1uebpx595bpb094dz4Ph_WqDK47fmJW17_r3oeg)
+
+Допомоги українським ветеринарам, їхнім родинам та тваринам [vetsforukraine.com](https://vetsforukraine.com/uk/)
 
 # Дозвілля
 
@@ -675,6 +696,8 @@ Oнлайн банки відкривають рахунок лише після
 [Дитяча україномовна музична школа в Цюриху](https://www.facebook.com/savytska.anna/posts/10226490668235128)
  
 [Український культурний центр в Женеві](https://www.facebook.com/CentreCulturelUkrainienGeneve/) 
+
+Новини Швейцарії українською [swissinfo.ch](https://www.swissinfo.ch/eng/swi-in-ukrainian) 
 
 # Корисні посилання
 
@@ -714,6 +737,10 @@ Telegram бот з інформацією для біженців в інтер�
 Порівняння вартості життя між Києвом та Цюріхом. [https://www.numbeo.com](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Ukraine&city1=Kiev+%28Kyiv%29&country2=Switzerland&city2=Zurich)
 
 Секонд-хенд речі (не тільки одяг). [brockilandag.ch](https://www.brockilandag.ch)
+
+Iнформація про допомогу українкам у різних країнах [UAhelpinfo](https://t.me/UAhelpinfo)
+
+Пошуку інформації під час війни [ВзаємоДія](https://ukraineisforever.notion.site/ukraineisforever/925902b5c48a4d7589fdeff2deba6233)
 
 [Українська церква в Цюриху](https://www.facebook.com/ugcc.ch)
 
