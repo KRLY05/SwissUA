@@ -697,7 +697,9 @@ Oнлайн банки відкривають рахунок лише після
  
 [Український культурний центр в Женеві](https://www.facebook.com/CentreCulturelUkrainienGeneve/) 
 
-Новини Швейцарії українською [swissinfo.ch](https://www.swissinfo.ch/eng/swi-in-ukrainian) 
+Новини Швейцарії українською [swissinfo.ch](https://www.swissinfo.ch/eng/swi-in-ukrainian)
+
+Діаспора ТВ Швейцарія [DiasporaTVSwitzerlandUkraine](https://www.facebook.com/DiasporaTVSwitzerlandUkraine/)
 
 # Корисні посилання
 
