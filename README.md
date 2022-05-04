@@ -31,6 +31,7 @@
 * [Навчання](#навчання)
   * [Школа для дітей](#школа-для-дітей)
   * [Українські школи](#українські-школи)
+  * [Ініціативи волонтерів](iніціативи-волонтерів)
   * [Мовні курси](#мовні-курси)
   * [Навчання для студентів](#навчання-для-студентів)
 * [Медицина та Страхування](#медицина-та-страхування)
@@ -464,7 +465,7 @@ https://www.green.ch/en/ukraine-internet
 ### Українські школи
 
 [У Женеві](https://www.facebook.com/alyonavinogradova/posts/10220089680568049)
-[у Швитц (ближче до Цюріху)](http://www.ridna-schkola-in-zh.ch/)
+[у Швитц (ближче до Цюриху)](http://www.ridna-schkola-in-zh.ch/)
 [Тичіно] (https://www4.ti.ch/decs/dfp/its/progetto-q-ua-ucraina/progetto-q-ua-ucraina/)
 
 [Дітки квітки](https://www.facebook.com/ditkykvitky) - уроки української мови, математики, трудового навчання, малювання, співу, музики і майстеркласи з дітьми. Багато безкоштовних пропозицій для біженців. Для переселенців безкоштовно, для жителів Швейцарії — донат.
@@ -475,7 +476,13 @@ https://www.green.ch/en/ukraine-internet
 - Cайт: [www.mrija.schule](https://www.mrija.schule/)
 - Facebook: https://www.facebook.com/groups/mrija.schule
 
-[Безкоштовний онлайн доступ до підручників українською мовою](https://www.lmvz.ch/services/ukraine)
+### Ініціативи волонтерів
+
+Безкоштовний онлайн доступ до підручників українською мовою [www.lmvz.ch](https://www.lmvz.ch/services/ukraine)
+
+Друзі - культурно-освітній проєкт для дітей та молоді з України у Цюриху
+- Інстаграм: [druzi.zurich](https://instagram.com/druzi.zurich)
+- Cайт: [druzi.zurich](https://taplink.cc/druzi.zurich)
 
 ### Мовні курси
 [Гете інститут](https://www.goethe.de/ins/ua/uk/index.html) пропонує онлайн курс а1, а2 за 7 грн для українців [](https://www.goethe.de/ins/ua/de/m/spr/kur/aka.html)
