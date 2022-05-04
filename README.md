@@ -336,7 +336,9 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 ### Платне житло
 
-Oфіційна брошура про оренду житла у Швейцарії [українською мовою](https://www.bwo.admin.ch/dam/bwo/de/dokumente/02_Wie_wir_wohnen/27_Infoblatt-Wohnen/informationsblatt/ukrainisch.pdf.download.pdf/ukrainisch.pdf)
+Oфіційна брошура про оренду житла у Швейцарії [українською мовою](https://www.bwo.admin.ch/dam/bwo/de/dokumente/02_Wie_wir_wohnen/27_Infoblatt-Wohnen/informationsblatt/ukrainisch.pdf.download.pdf/ukrainisch.pdf).
+
+Рекомендації щодо процесу пошуку житла [українською мовою](https://www.facebook.com/DiasporaTVSwitzerlandUkraine/posts/117170340949167).
 
 Агрегатор пошуку оренди та придбання власного житла: [comparis.ch/immobilien](https://en.comparis.ch/immobilien)
 
