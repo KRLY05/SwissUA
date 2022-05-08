@@ -200,6 +200,8 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Чат кантону Вале](https://t.me/ValaisUkraine)
 
+Чат кантону Вале https://t.me/+rvZ6ugJljLg0ZTNk
+
 [Беженцы в Швейцарии](https://t.me/UASchweiz)
 
 [Фрібур](https://t.me/+h5QVWdAJof5jY2My)
