@@ -200,7 +200,7 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Чат кантону Вале](https://t.me/ValaisUkraine)
 
-Чат кантону Вале https://t.me/+rvZ6ugJljLg0ZTNk
+[Українці в Валє 🇺🇦](https://t.me/+rvZ6ugJljLg0ZTNk)
 
 [Беженцы в Швейцарии](https://t.me/UASchweiz)
 
@@ -491,6 +491,9 @@ https://www.green.ch/en/ukraine-internet
 - Cайт: [druzi.zurich](https://taplink.cc/druzi.zurich)
 
 ### Мовні курси
+
+Інформація для [кантону Цюрих](geman.pdf)
+
 [Гете інститут](https://www.goethe.de/ins/ua/uk/index.html) пропонує онлайн курс а1, а2 за 7 грн для українців [](https://www.goethe.de/ins/ua/de/m/spr/kur/aka.html)
 
 Відео уроки французької мови та книга розмовних фраз та граматики, для тих, хто переїхав до Франції та Швейцарії
@@ -751,7 +754,7 @@ Telegram бот з інформацією для біженців в інтер�
 
 Юридична підтримка: [https://www.osar.ch/aide-pour-refugie-et-requerant-dasile/protection-juridique](https://www.osar.ch/aide-pour-refugie-et-requerant-dasile/protection-juridique)
 
-Юридичний онлайн сервіс для біженців: [asylex](https://asylex.bryter.io/s/Ddmn1KQmSvyIKnwmeHkuYA/ukraine)
+Юридичний швейцарський онлайн сервіс для біженців: [asylex](https://asylex.bryter.io/s/Ddmn1KQmSvyIKnwmeHkuYA/ukraine)
 
 Ви подали заяву до притулку в Швейцарії. Що далі? [asylum-info.ch](https://asylum-info.ch)
 
