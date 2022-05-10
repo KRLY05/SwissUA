@@ -182,9 +182,9 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Чат Берн](https://t.me/BernUkraine)
 
-[Берн](https://t.me/BernUkraine)
+[Канал Українці в Граубюндені](https://t.me/ukrainians_gr)
 
-[Берн](https://t.me/help_people_fromUkraine)
+[Волонтеры Берна](https://t.me/help_people_fromUkraine)
 
 [Берн](https://t.me/IntegrationBernCH)
 
@@ -257,6 +257,10 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 [IMAGINE. Ukraine in Bern](https://www.facebook.com/groups/1159752504794618/?ref=share)
 
 [Ukraine2Swiss](https://www.facebook.com/Ukraine2Swiss/)
+
+[Українські митці у Швейцарії](https://www.facebook.com/groups/531647275039866)
+
+[Українці в Тічіно](https://www.facebook.com/groups/1488329168136496)
 
 ### WhatsApp:
 
@@ -505,6 +509,8 @@ https://www.green.ch/en/ukraine-internet
 
 Безкоштовні онлайн курси [school777](https://www.school777.org/ua)
 
+[ua.babbel.com](https://ua.babbel.com/) Безкоштовні онлайн курси з німецької, польської та англійської 
+
 Безкоштовні курси французької мови для українців. Для запису необхідно надіслати заявку на francais.gymnase.ukraine@gmail.com або або заповнити [онлайн форму](https://forms.gle/udN6qLeQVMkWzpgZA).
 Адреса: 1260 Nyon, Rte de Divonne 8b (Gymnase de Nyon).
 Є можливість приходити з дітьми, по них подбають під час лекції. 
@@ -584,6 +590,8 @@ YouTube курс [Німецька для початківців](https://youtub
 
 [Jobs in Switzerland](https://uach2022.com/)
 
+[expatica](https://www.expatica.com/ch/jobs/?fbclid=IwAR3uhFWNYRMob5fMcO3tONCJtQmpcusgHlggMh9RuLJ1-lV4YyV6BX1D6BY)
+
 [Ukrainian-Swiss Business Association](https://www.facebook.com/109689340660003/posts/514107810218152/?d=n)
 
 [https://www.workinswiss.ch/](https://www.workinswiss.ch/) - сайт створений українцями що давно проживають у Швейцірї
@@ -617,6 +625,8 @@ Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 Канал по швейцарії: [job_sw_ukrainians](https://t.me/job_sw_ukrainians)
 
 [Работа в Швейцарии](https://t.me/workinswiss)
+
+[Ганнуся і RAV](https://t.me/gannaRAV) тут зібралися люди готові допомагати один одному інформацією з пошуку роботи
 
 ### Facebook:
 
@@ -696,6 +706,8 @@ Oнлайн банки відкривають рахунок лише після
 
 Канал "Help PETS from Ukraine 🇺🇦: 🇨🇭Zürich. допомога для 🐶": https://t.me/helppetsfromukraine
 
+[PraxisAltePost](https://www.facebook.com/PraxisAltePost/) Ветеринарна клініка, яка безкоштовно лікує і каструє домашніх тварин біженців з України. Власниця - українка
+
 Ваучери допомоги тваринам від [fressnapf](https://www.fressnapf.ch/de/). Потрібно зробити запит: sozialarbeittiere@susyutzinger.ch тел. +41 52 202 69 69; Деталі: [susyutzinger](https://www.susyutzinger.ch/Aktivitaeten/Soforthilfe/Aktuell-Hilfe-fuer-Ukrainische-Gefluechtete-und-ihre-Tiere?fbclid=IwAR133M18KzwMWieMl6Zp1uebpx595bpb094dz4Ph_WqDK47fmJW17_r3oeg)
 
 Допомоги українським ветеринарам, їхнім родинам та тваринам [vetsforukraine.com](https://vetsforukraine.com/uk/)
@@ -716,7 +728,7 @@ Oнлайн банки відкривають рахунок лише після
 
 # Корисні посилання
 
-[Гаряча Лінія](https://www.allianz.ch/de/ueber-uns/engagements/ukraine-helfen.html#/formrunner) для людей, які потребують усних перекладів. Типові ситуації:
+[Гаряча Лінія](https://www.allianz.ch/de/ueber-uns/engagements/ukraine-helfen.html#/formrunner) для людей, які потребують усних (німецька) перекладів. Типові ситуації:
 - мовне нерозуміння з сім'єю, що приймає
 - питання у державних структурах
 - переклади під час відвідування лікаря
