@@ -530,16 +530,16 @@ YouTube курс [Німецька для початківців](https://youtub
 
 
 ### Навчання для студентів
-Вебсайт [#ScienceForUkraine](https://scienceforukraine.eu/) збирає різні пропозиції для студентів та дослідників від різних університетів (включаючи швейцарські). Також в багатьох швейцарських університетах українські студенти можуть бути безкоштовно зараховані в якості "аудиторів" та брати курси чи працювати над навчальними проектами. Інформацію про це можна знайти на сайтах університетів, наприклад:
-- https://ukraine.epfl.ch/: *"You can register as an auditor so that you can attend courses in the field that you were studying at your Ukrainian university."*
-- https://ethz.ch/services/en/news-and-events/solidarity-with-ukraine.html: *"As part of its emergency aid programme, ETH Zurich is providing refugees from Ukraine with uncomplicated and rapid admission as auditors. This includes attendance of courses, access to ETH IT infrastructure, etc."*
-- https://www.unifr.ch/home/en/solidarity-ukraine/: *"BA, MA and PhD students may come to Unifr as host students. Study fees are waived."*
-- https://www.unibas.ch/de/Aktuell/Ukraine.html: Пропозиція Університету Базель на основі програми обміну студентів Gaststudent
-- https://www.hesge.ch/head/en/event/2022/solidarity-ukraine-concrete-possibilities-welcome-refugees: Пропозиція для студентів, викладачів та науковців у галузі мистецтва від Женевської школи мистецтв та дизайну (HEAD) в Женеві.
-- https://www.facebook.com/100023066118368/posts/901017947343734/: підтримка для студентів бакалавриау, магістратури и аспірантури від універсітету UZH
-- https://docs.google.com/spreadsheets/d/1HqTKukfJGpmowQnSh4CoFn3T6HXcNS1T1pK-Xx9CknQ/edit#gid=320641758 - лабораторії университетів світу, що підтримують Українців. Потрібно відфільтрувати за значеннями "Switzerland" та "Switzerand" колонку "Country"
-- https://www.fhnw.ch/en/startseite - University of Applied Sciences and Arts Northwestern Switzerland у співробітництві з Laurenz Foundation приймуть на 1 рік 20 студентів з України, що вивчають Art та Design
-- https://www.zhdk.ch/en/news/solidarity-with-ukraine-contact-points-and-actions-5052 - програми по підтримці біженців у Цюрихському мистецькому університеті
+Вебсайт [ScienceForUkraine](https://scienceforukraine.eu/) збирає різні пропозиції для студентів та дослідників від різних університетів (включаючи швейцарські). Також в багатьох швейцарських університетах українські студенти можуть бути безкоштовно зараховані в якості "аудиторів" та брати курси чи працювати над навчальними проектами. Інформацію про це можна знайти на сайтах університетів, наприклад:
+- [https://ukraine.epfl.ch/](https://ukraine.epfl.ch/): *"You can register as an auditor so that you can attend courses in the field that you were studying at your Ukrainian university."*
+- [https://ethz.ch/services/en/news-and-events/solidarity-with-ukraine.html](https://ethz.ch/services/en/news-and-events/solidarity-with-ukraine.html): *"As part of its emergency aid programme, ETH Zurich is providing refugees from Ukraine with uncomplicated and rapid admission as auditors. This includes attendance of courses, access to ETH IT infrastructure, etc."*
+- [https://www.unifr.ch/home/en/solidarity-ukraine/](https://www.unifr.ch/home/en/solidarity-ukraine/): *"BA, MA and PhD students may come to Unifr as host students. Study fees are waived."*
+- [https://www.unibas.ch/de/Aktuell/Ukraine.html](https://www.unibas.ch/de/Aktuell/Ukraine.html): Пропозиція Університету Базель на основі програми обміну студентів Gaststudent
+- [https://www.hesge.ch/head/en/event/2022/solidarity-ukraine-concrete-possibilities-welcome-refugees](https://www.hesge.ch/head/en/event/2022/solidarity-ukraine-concrete-possibilities-welcome-refugees): Пропозиція для студентів, викладачів та науковців у галузі мистецтва від Женевської школи мистецтв та дизайну (HEAD) в Женеві.
+- [https://www.facebook.com/100023066118368/posts/901017947343734/](https://www.facebook.com/100023066118368/posts/901017947343734/): підтримка для студентів бакалавриау, магістратури и аспірантури від універсітету UZH
+- [https://docs.google.com/spreadsheets/d/1HqTKukfJGpmowQnSh4CoFn3T6HXcNS1T1pK-Xx9CknQ/edit#gid=320641758](https://docs.google.com/spreadsheets/d/1HqTKukfJGpmowQnSh4CoFn3T6HXcNS1T1pK-Xx9CknQ/edit#gid=320641758) - лабораторії университетів світу, що підтримують Українців. Потрібно відфільтрувати за значеннями "Switzerland" та "Switzerand" колонку "Country"
+- [https://www.fhnw.ch/en/startseite](https://www.fhnw.ch/en/startseite) - University of Applied Sciences and Arts Northwestern Switzerland у співробітництві з Laurenz Foundation приймуть на 1 рік 20 студентів з України, що вивчають Art та Design
+- [https://www.zhdk.ch/en/news/solidarity-with-ukraine-contact-points-and-actions-5052](https://www.zhdk.ch/en/news/solidarity-with-ukraine-contact-points-and-actions-5052) - програми по підтримці біженців у Цюрихському мистецькому університеті
 
 # Медицина та Страхування
 
