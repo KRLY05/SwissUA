@@ -492,7 +492,7 @@ https://www.green.ch/en/ukraine-internet
 
 ### Мовні курси
 
-Інформація для [кантону Цюрих](geman.pdf)
+Інформація для [кантону Цюрих](german.pdf)
 
 [Гете інститут](https://www.goethe.de/ins/ua/uk/index.html) пропонує онлайн курс а1, а2 за 7 грн для українців [](https://www.goethe.de/ins/ua/de/m/spr/kur/aka.html)
 
