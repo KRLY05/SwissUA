@@ -474,8 +474,8 @@ https://www.green.ch/en/ukraine-internet
 [у Швитц (ближче до Цюриху)](http://www.ridna-schkola-in-zh.ch/)
 [Тичіно] (https://www4.ti.ch/decs/dfp/its/progetto-q-ua-ucraina/progetto-q-ua-ucraina/)
 
-[Дітки квітки](https://www.facebook.com/ditkykvitky) - уроки української мови, математики, трудового навчання, малювання, співу, музики і майстеркласи з дітьми. Багато безкоштовних пропозицій для біженців. Для переселенців безкоштовно, для жителів Швейцарії — донат.
-- Інстаграм: [ditky.kvitky](www.instagram.com/ditky.kvitky/)
+[Дітки квітки](https://www.facebook.com/ditkykvitky) (facebook посилання) - уроки української мови, математики, трудового навчання, малювання, співу, музики і майстеркласи з дітьми. Багато безкоштовних пропозицій для біженців. Для переселенців безкоштовно, для жителів Швейцарії — донат.
+- Інстаграм: [ditky.kvitky](www.instagram.com/ditky.kvitky)
 - Телеграм: [itkykvitky](https://t.me/+5v3p8Xcfjuk1ODBk)
 
 Українська школа «Мрія» у Швейцарії
