@@ -476,7 +476,7 @@ https://www.green.ch/en/ukraine-internet
 
 [Дітки квітки](https://www.facebook.com/ditkykvitky) - уроки української мови, математики, трудового навчання, малювання, співу, музики і майстеркласи з дітьми. Багато безкоштовних пропозицій для біженців. Для переселенців безкоштовно, для жителів Швейцарії — донат.
 - Інстаграм: [ditky.kvitky](www.instagram.com/ditky.kvitky/)
-- Телеграм: [itkykvitky]](https://t.me/+5v3p8Xcfjuk1ODBk)
+- Телеграм: [itkykvitky](https://t.me/+5v3p8Xcfjuk1ODBk)
 
 Українська школа «Мрія» у Швейцарії
 - Cайт: [www.mrija.schule](https://www.mrija.schule/)
