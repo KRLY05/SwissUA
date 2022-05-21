@@ -186,7 +186,7 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Волонтеры Берна](https://t.me/help_people_fromUkraine)
 
-[Берн](https://t.me/IntegrationBernCH)
+[Канал інтеграції українців у Берні та регіоні](https://t.me/IntegrationBernCH)
 
 [Чат Тургау](https://t.me/ThurgauUkraine)
 
