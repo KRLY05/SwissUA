@@ -470,17 +470,19 @@ https://www.green.ch/en/ukraine-internet
 
 ### Українські школи
 
-[У Женеві](https://www.facebook.com/alyonavinogradova/posts/10220089680568049)
-[у Швитц (ближче до Цюриху)](http://www.ridna-schkola-in-zh.ch/)
-[Тичіно] (https://www4.ti.ch/decs/dfp/its/progetto-q-ua-ucraina/progetto-q-ua-ucraina/)
+[Женева](https://www.facebook.com/alyonavinogradova/posts/10220089680568049)
+
+[Швітц (ближче до Цюриху)](http://www.ridna-schkola-in-zh.ch/)
+
+[Тичіно](https://www4.ti.ch/decs/dfp/its/progetto-q-ua-ucraina/progetto-q-ua-ucraina/)
 
 [Дітки квітки](https://www.facebook.com/ditkykvitky) (facebook посилання) - уроки української мови, математики, трудового навчання, малювання, співу, музики і майстеркласи з дітьми. Багато безкоштовних пропозицій для біженців. Для переселенців безкоштовно, для жителів Швейцарії — донат.
 - Інстаграм: [ditky.kvitky](https://www.instagram.com/ditky.kvitky)
 - Телеграм: [itkykvitky](https://t.me/+5v3p8Xcfjuk1ODBk)
 
-#### [Українська школа «Мрія» у Швейцарії](https://www.mrija.schule/)
-Запрошуємо на навчання дітей **від 2-х до 18 років**. Вивчай рідну мову в Цюриху!
-Наразі всі заняття проводимо **безкоштовно**.
+[Українська школа «Мрія» у Швейцарії](https://www.mrija.schule/)
+Запрошують на навчання дітей **від 2-х до 18 років**. Вивчай рідну мову в Цюриху!
+Наразі всі заняття проводяться  **безкоштовно**.
 
 Предмети: **українська мова, література, математика, художньо-естетична діяльність та різноманітні майстеркласи.**
 
