@@ -629,6 +629,8 @@ YouTube курс [Німецька для початківців](https://youtub
 
 Віддалена робота для українців  [workadojobs](https://t.me/workadojobs)
 
+Вакансії в Макдональдсі https://jobs.mcdonalds.ch/de
+
 ### Телеграм канали:
 
 Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
