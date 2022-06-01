@@ -158,6 +158,8 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Чат Цюрих](https://t.me/ZurichUkraine)
 
+[Студенти у Цюриху](https://t.me/UAstudentsZH)
+
 [Чат "Zürich Главный Вокзал помощь"](https://t.me/zurich_hb_help)
 
 [Канал Zurich helps Ukraine](https://t.me/zh_helps_ukraine)
