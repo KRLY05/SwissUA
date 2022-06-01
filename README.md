@@ -58,6 +58,10 @@
 
 [FAQ](FAQ.md) сторінка з відповідями на найбільш популярні питання у чатах
 
+### !!! [Інформація для осіб, які прибувають з України](https://news.sbb.ch/artikel/110690/information-for-passengers-from-ukraine-in-ukrainian)
+
+Список [усіх адресс центрів біженців](https://www.sem.admin.ch/sem/en/home/asyl/adressen.html)
+
 Цюрих - Відповіді на питання біженців та для тих, хто хоче допомогти [www.stadt-zuerich.ch](https://www.stadt-zuerich.ch/portal/de/index/aktuelles/ukraine/ua-faq-unterstuezung-gefluechtete-ukraine.html)
 
 [Список важливих питань та відповіді від SEM(міграційного центру)](https://www.sem.admin.ch/sem/de/home/sem/aktuell/ukraine-hilfe.html) 
