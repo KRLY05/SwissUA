@@ -61,11 +61,14 @@
 ### !!! [Інформація для осіб, які прибувають з України](https://news.sbb.ch/artikel/110690/information-for-passengers-from-ukraine-in-ukrainian)
 
 Список [усіх адресс центрів біженців](https://www.sem.admin.ch/sem/en/home/asyl/adressen.html)
+Список [усіх адресс центрів біженців для реєстрації](https://www.sem.admin.ch/sem/en/home.html)
 
 Цюрих - Відповіді на питання біженців та для тих, хто хоче допомогти [www.stadt-zuerich.ch](https://www.stadt-zuerich.ch/portal/de/index/aktuelles/ukraine/ua-faq-unterstuezung-gefluechtete-ukraine.html)
 
 [Список важливих питань та відповіді від SEM(міграційного центру)](https://www.sem.admin.ch/sem/de/home/sem/aktuell/ukraine-hilfe.html) 
 (поїздка, робота, перетин кордону, робота у інщому кантоні, тощо)
+
+Якщо ви хочете **ВІДМОВИТИСЯ ВІД СТАТУСУ S** у Швейцарії то напишіть emai листа на адрессу **ukraine@sem.admin.ch** про відмову, краще з копією/фото документів/заяви про підтвердження подачі
 
 # Закінчився закордонний паспорт
 
@@ -614,6 +617,10 @@ YouTube курс [Німецька для початківців](https://youtub
 Пошук роботи для українців [jobcloud.ch/c/en/ukraine-friendly-jobs-switzerland](https://www.jobcloud.ch/c/en/ukraine-friendly-jobs-switzerland)
 
 Сайт пошуку роботи у Швейцарії: [jobs.ch](https://www.jobs.ch/en/)
+
+Сайт пошуку роботи у Швейцарії: [indeed](https://ch.indeed.com/)
+
+[Найняти українських талантів](https://employukraine.org/uk/)
 
 [helpukrainians.jooble.org](https://helpukrainians.jooble.org)
 
