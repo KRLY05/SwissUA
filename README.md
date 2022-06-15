@@ -670,6 +670,8 @@ YouTube курс [Німецька для початківців](https://youtub
 
 Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 
+[Lovely Job(S) 🇺🇦❤️🇨🇭 in Switzerland](https://t.me/Lovely_Job_in_Switzerland_Past)
+
 [IT Робота у Швейцарії ](https://t.me/ua_zh_it_jobs)
 
 Канал по швейцарії: [job_sw_ukrainians](https://t.me/job_sw_ukrainians)
@@ -683,6 +685,8 @@ Telegram канал [jobforukrainians](https://t.me/jobforukrainians)
 [Jobs for Refugees in Switzerland](https://facebook.com/groups/660840828566993)
 
 [Swiss-Ukrainian Job](https://m.facebook.com/groups/387684662799211)
+
+[Lovely Job(S) 🇺🇦❤️🇨🇭 in Switzerland](https://www.facebook.com/groups/704976090592523/?ref=share)
 
 ### Інші ініціативи волонтерів та компаній:
 
