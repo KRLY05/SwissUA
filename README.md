@@ -211,7 +211,9 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Чат кантону Тічіно](https://t.me/TicinoLuganoUkraine)
 
-[Чат Шафхаузен](https://t.me/schaffhausen_ukr)
+[Чат Шафхаузен №1: ](https://t.me/schaff)
+
+[Чат Шафхаузен №2: ](https://t.me/schaffhausen_ukr)
 
 [Чат Санкт-Галлен](https://t.me/StGallenUkraine)
 
