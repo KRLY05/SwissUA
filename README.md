@@ -213,8 +213,6 @@ SEEP🇨🇭: допомога українцям 🇺🇦
 
 [Українці в Шаффхаузені](https://t.me/schaffhausen_ukr)
 
-[Кантон Шаффхаузен](https://t.me/schaff)
-
 [Чат Санкт-Галлен](https://t.me/StGallenUkraine)
 
 [Чат кантону Вале](https://t.me/ValaisUkraine)
